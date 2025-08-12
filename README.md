@@ -1,5 +1,9 @@
 # APSAS - Automated Pit Stop Assistance System
 
+#### still a work in progress!
+
+---------------------------------------------------------------------------------
+
 Formula 1 might be one of the most enthrilling sports of today with its high-performance cars and high-stakes races, yet is notoriously unsafe for drivers that drive these cars under immense pressure.
 
 This system and its 3 main sub-systems aim to make a specific part of an F1 race, namely the Pit Stop, more efficient and safer for the drivers, the pit crew and any other person on the pit lane. 
